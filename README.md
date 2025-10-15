@@ -1,74 +1,79 @@
-# 🚀 My Portfolio Website
+🚀 Romela Grace Portfolio Website
 
-Welcome to the repository for my personal portfolio website! This is where I showcase my skills, projects, and a bit of my personality through jaw-dropping 3D animations, slick interactions, and fluid motion. If you're into creative web design, you're in the right place.
+Welcome to the repository of my personal portfolio website — a space where I showcase my projects, skills, and journey as a Computer Engineer and Full-Stack / Backend Developer. This portfolio blends creativity, security awareness, and technical precision to reflect how I approach both code and design.
 
-![Portfolio Preview](https://github.com/Naresh-Khatri/Portfolio/blob/main/public/assets/projects-screenshots/portfolio/landing.png?raw=true)
+🔥 Features
 
-## 🔥 Features
+Interactive Design – Clean, dynamic, and visually engaging interfaces built with precision and performance in mind.
 
-- **3D Animations**: Custom-made interactive keyboard using Spline with skills as keycaps that reveal titles and descriptions on hover.
-- **Slick Interactions**: Powered by GSAP and Framer Motion for smooth animations on scroll, hover, and element reveal.
-- **Space Theme**: Particles on a dark background to simulate a cosmic environment, making the experience out of this world.
-- **Responsive Design**: Fully responsive across all devices to ensure the best user experience.
-- **Innovative Web Design**: Combining creativity with functionality to push the boundaries of modern web design.
+Smooth Animations – Powered by GSAP and Framer Motion for fluid transitions and responsive motion effects.
 
-## 🛠️ Tech Stack
+Modern Aesthetic – A minimalist dark theme inspired by technology and space, symbolizing innovation and limitless exploration.
 
-- **Frontend**: Next.js, React, Tailwind CSS, Shadcn, Aceternity UI
-- **Animations**: GSAP, Framer Motion, Spline Runtime
-- **Misc**: Resend, Socketio, Zod
+Fully Responsive – Optimized for seamless performance across all devices and screen sizes.
 
-## 🚀 Getting Started
+Developer Focused – Highlights my work in software development, automation, and cybersecurity, merging creativity with technical skill.
 
-### Prerequisites
+🛠️ Tech Stack
 
-- Node.js (v14+)
-- npm or yarn
+Frontend: Next.js, React, Tailwind CSS, Shadcn, Aceternity UI
 
-### Installation
+Animations: GSAP, Framer Motion, Spline Runtime
 
-1. Clone the repository:
+Tools & Integrations: Resend, Socket.io, Zod
 
-    ```bash
-    git clone https://github.com/Naresh-Khatri/Portfolio.git
-    ```
+🚀 Getting Started
+Prerequisites
 
-2. Navigate to the project directory:
+Node.js (v14+)
 
-    ```bash
-    cd Portfolio
-    ```
+npm or yarn
 
-3. Install dependencies:
+Installation
 
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
+Clone the repository:
 
-4. Run the development server:
+git clone https://github.com/RomelaGrace/RomelaGrace-Portfolio.git
 
-    ```bash
-    npm run dev
-    # or
-    yarn dev
-    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the magic!
+Navigate to the project directory:
 
-## 🚀 Deployment
+cd RomelaGrace-Portfolio
 
-This site is deployed on Vercel. For your own deployment, follow these steps:
 
-1. Push your code to a GitHub repository.
-2. Connect your repository to Vercel.
-3. Vercel will handle the deployment process.
+Install dependencies:
 
-## 🤝 Contributing
+npm install
+# or
+yarn install
 
-If you'd like to contribute or suggest improvements, feel free to open an issue or submit a pull request. All contributions are welcome!
 
-## 📄 License
+Run the development server:
 
-This project is open source and available under the [MIT License](LICENSE).
+npm run dev
+# or
+yarn dev
+
+
+Open http://localhost:3000
+ to view it in your browser.
+
+🌐 Deployment
+
+This portfolio is deployed on Vercel.
+To deploy your own version:
+
+Push the repository to GitHub.
+
+Connect it to your Vercel account.
+
+Deploy instantly — Vercel will handle the rest.
+
+🤝 Contributing
+
+Have suggestions or ideas for improvement? Feel free to open an issue or submit a pull request — collaboration drives innovation!
+
+📄 License
+
+This project is open source and available under the MIT License
+.
