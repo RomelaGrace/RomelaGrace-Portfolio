@@ -1,79 +1,75 @@
-🚀 Romela Grace Portfolio Website
+# 🚀 Romela Grace Portfolio Website
 
 Welcome to the repository of my personal portfolio website — a space where I showcase my projects, skills, and journey as a Computer Engineer and Full-Stack / Backend Developer. This portfolio blends creativity, security awareness, and technical precision to reflect how I approach both code and design.
 
-🔥 Features
+![Portfolio Preview](https://github.com/RomelaGrace/RomelaGrace-Portfolio/blob/main/public/assets/projects-screenshots/portfolio/landing.png?raw=true)
 
-Interactive Design – Clean, dynamic, and visually engaging interfaces built with precision and performance in mind.
+## 🔥 Features
 
-Smooth Animations – Powered by GSAP and Framer Motion for fluid transitions and responsive motion effects.
+- **Interactive Design**: Clean, dynamic, and visually engaging interfaces built with precision and performance in mind.
+- **Smooth Animations**: Powered by GSAP and Framer Motion for fluid transitions and responsive motion effects.
+- **Modern Aesthetic**: A minimalist dark theme inspired by technology and space, symbolizing innovation and limitless exploration.
+- **Responsive Design**: FOptimized for seamless performance across all devices and screen sizes.
+- **Developer Focused**: CHighlights my work in software development, automation, and cybersecurity, merging creativity with technical skill.
 
-Modern Aesthetic – A minimalist dark theme inspired by technology and space, symbolizing innovation and limitless exploration.
+## 🛠️ Tech Stack
 
-Fully Responsive – Optimized for seamless performance across all devices and screen sizes.
+- **Frontend**: Next.js, React, Tailwind CSS, Shadcn, Aceternity UI
+- **Animations**: GSAP, Framer Motion, Spline Runtime
+- **Misc**: Resend, Socketio, Zod
 
-Developer Focused – Highlights my work in software development, automation, and cybersecurity, merging creativity with technical skill.
+## 🚀 Getting Started
 
-🛠️ Tech Stack
+### Prerequisites
 
-Frontend: Next.js, React, Tailwind CSS, Shadcn, Aceternity UI
+- Node.js (v14+)
+- npm or yarn
 
-Animations: GSAP, Framer Motion, Spline Runtime
+### Installation
 
-Tools & Integrations: Resend, Socket.io, Zod
+1. Clone the repository:
 
-🚀 Getting Started
-Prerequisites
+    ```bash
+    git clone git clone https://github.com/RomelaGrace/RomelaGrace-Portfolio.git
 
-Node.js (v14+)
+    ```
 
-npm or yarn
+2. Navigate to the project directory:
 
-Installation
+    ```bash
+    cd Portfolio
+    ```
 
-Clone the repository:
+3. Install dependencies:
 
-git clone https://github.com/RomelaGrace/RomelaGrace-Portfolio.git
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
+4. Run the development server:
 
-Navigate to the project directory:
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
 
-cd RomelaGrace-Portfolio
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the magic!
 
+## 🚀 Deployment
 
-Install dependencies:
+This site is deployed on Vercel. For your own deployment, follow these steps:
 
-npm install
-# or
-yarn install
+1. Push your code to a GitHub repository.
+2. Connect your repository to Vercel.
+3. Vercel will handle the deployment process.
 
-
-Run the development server:
-
-npm run dev
-# or
-yarn dev
-
-
-Open http://localhost:3000
- to view it in your browser.
-
-🌐 Deployment
-
-This portfolio is deployed on Vercel.
-To deploy your own version:
-
-Push the repository to GitHub.
-
-Connect it to your Vercel account.
-
-Deploy instantly — Vercel will handle the rest.
-
-🤝 Contributing
+## 🤝 Contributing
 
 Have suggestions or ideas for improvement? Feel free to open an issue or submit a pull request — collaboration drives innovation!
 
-📄 License
+## 📄 License
 
-This project is open source and available under the MIT License
-.
+This project is open source and available under the [MIT License](LICENSE).
